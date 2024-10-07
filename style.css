@@ -126,3 +126,10 @@ a {
 #check:checked ~ .btn_one i {
   opacity: 0;
 }
+
+h1 {
+  color: white;
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+}
