@@ -39,9 +39,11 @@ Welcome to **Arvind Store**, a responsive sidebar menu project designed for seam
 ## How to Use
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/arvind-store.git
-    ```
+
+   ```bash
+   git clone https://github.com/arvind-kumar-anand/SideNavPro.git
+   ```
+
 2. Navigate to the project directory and open `index.html` in your browser.
 
 ## Future Enhancements
