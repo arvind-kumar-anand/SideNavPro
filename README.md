@@ -52,6 +52,3 @@ Welcome to **Arvind Store**, a responsive sidebar menu project designed for seam
 - Implementing user authentication for login/logout.
 - Integrating the project with a backend for dynamic product listings and order history.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
